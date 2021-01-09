@@ -1,0 +1,13 @@
+Root parameters
+- Inter-beat interval (RR interval)
+- Difference in successive RR interval
+- Relative RR interval
+- Very Low frequncy band
+- Low frequency band
+- High frequency band
+- Highest frequency band
+- Poincaré plot
+- Sample entropy
+- Higuci fractal dimension
+- Condition
+- Heart Rate (Dependent variable)
